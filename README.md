@@ -21,11 +21,3 @@ El Máster de Ingeniería de Software y Sistemas Informáticos se basa en el Lea
 Con el Máster en Diseño y Desarrollo de IU WEB aprenderás las habilidades necesarias para diseñar y realizar tus propios proyectos web como desarrollador front-end. También crearás aplicaciones en las que se cumplan tres premisas básicas: un diseño creativo, facilidad del usuario para utilizarlas y que se adapten a diferentes dispositivos (responsive).
 
 <br/><br/>
-
-<a href="https://github.com/UnirCs/MUDISEPRO-LANDING"><img src="https://github.com/UnirCs/UnirCs/blob/feature/newReadme/MUDISEPRO_Header.png"></a>
-En el Máster en Diseño y Producción Multimedia aprenderás a manejar el paquete Adobe, a manejar programas de edición de vídeo y de imagen, de desarrollo de app y web, y también de creación de contenidos digitales y de marketing digital. En caso de que procedas de un grado no relacionado con el desarrollo, podrás disfrutar de un mes de complementos formativos previos al inicio del máster para ponerte al nivel de tus compañeros
-
-<br/><br/>
-
-<a href="https://github.com/UnirCs/GII-LANDING"><img src="https://github.com/UnirCs/UnirCs/blob/feature/newReadme/GII_Header.png"></a>
-El Grado en Ingeniería Informática está diseñado para que adquieras los conocimientos teóricos y prácticos en inteligencia artificial, ingeniería del software, diseño de hardware, arquitecturas de red o seguridad de los datos que forman los sistemas informáticos modernos
